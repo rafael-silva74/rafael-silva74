@@ -24,5 +24,5 @@ Além de mergulhar no código, eu adoro:
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafael-silva74&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
