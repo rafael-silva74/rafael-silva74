@@ -44,10 +44,10 @@ No geral, gosto de aprender, criar e me divertir no processo. 🌈
 ### 🔗 Minhas Redes Sociais
 
 <div align="left">
-  <a href="https://wa.me/SEU_NUMERO" target="_blank">
+  <a href="https://wa.me/+55(19)981875674" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://www.youtube.com/rafaebene1083" target="_blank">
+  <a href="https://www.youtube.com/@rafaebene1083" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.tiktok.com/@Kicks_Café" target="_blank">
