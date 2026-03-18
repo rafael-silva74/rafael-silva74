@@ -7,14 +7,11 @@
 ### 📊 Minhas Estatísticas e Contribuições
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight" />
-</div>
-
-<br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-silva74I&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-silva74&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
