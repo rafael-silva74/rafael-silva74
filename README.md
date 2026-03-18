@@ -25,7 +25,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-silva74&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
