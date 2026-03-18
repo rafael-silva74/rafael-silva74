@@ -53,7 +53,7 @@ No geral, gosto de aprender, criar e me divertir no processo. 🌈
   <a href="https://www.tiktok.com/@Kicks_Café" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://www.linkedin.com/in/rafael-silva" target="_blank">
+  <a href="https://www.linkedin.com/in/rafael-silva-7b76693b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
