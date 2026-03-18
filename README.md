@@ -48,3 +48,7 @@ No geral, gosto de aprender, criar e me divertir no processo. 🌈
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+echo "Dia $(date)" >> cobrinha.txt
+git add cobrinha.txt
+git commit -m "Commit diário"
+git push origin main
