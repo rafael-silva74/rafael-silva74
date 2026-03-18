@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=702DFF&height=200&section=header" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=702DFF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a)!+👋;Sou+o+Rafael,+um+novato+no+GitHub" />
 </div>
 
