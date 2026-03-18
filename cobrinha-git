@@ -1,0 +1,4 @@
+echo "Dia $(date)" >> cobrinha.txt
+git add cobrinha.txt
+git commit -m "Commit diário"
+git push origin main
