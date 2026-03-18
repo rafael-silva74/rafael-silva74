@@ -4,6 +4,21 @@
 
 ---
 
+### 📊 Minhas Estatísticas e Contribuições
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
 ### 🚀 Minhas linguagens tecnológicas:
 
 <div align="left">
@@ -15,20 +30,10 @@
 
 ---
 
-### 📊 Minhas Estatísticas e Contribuições
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-silva74&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-silva74&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ### ✨ Um pouco sobre mim:
 
-Além de mergulhar no código, eu adoro:
-* 🎮 **Jogos** (sempre explorando novos mundos)
-* 🎬 **Animações** (fã de artes visuais e storytelling)
-* 🌈 **Diversão** (porque a vida fica melhor com criatividade)
+Sou um fã do universo geek 🎮🎌, apaixonado por jogos, animes e músicas geek.
+
+Também participo de uma fanfarra, tocando instrumentos de sopro e ritmo, o que me ajuda a desenvolver disciplina e trabalho em equipe.
+
+No geral, gosto de aprender, criar e me divertir no processo. 🌈
