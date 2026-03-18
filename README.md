@@ -15,15 +15,6 @@
 
 ---
 
-### ✨ Um pouco sobre mim:
-
-Além de mergulhar no código, eu adoro:
-* 🎮 **Jogos** (sempre explorando novos mundos)
-* 🎬 **Animações** (fã de artes visuais e storytelling)
-* 🌈 **Diversão** (porque a vida fica melhor com criatividade)
-
----
-
 ### 📊 Minhas Estatísticas e Contribuições
 
 <div align="center">
@@ -36,3 +27,12 @@ Além de mergulhar no código, eu adoro:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+---
+
+### ✨ Um pouco sobre mim:
+
+Além de mergulhar no código, eu adoro:
+* 🎮 **Jogos** (sempre explorando novos mundos)
+* 🎬 **Animações** (fã de artes visuais e storytelling)
+* 🌈 **Diversão** (porque a vida fica melhor com criatividade)
