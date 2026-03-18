@@ -1,0 +1,7 @@
+git config --global user.name "rafael"
+git config --global user.email "rafaelljacinto3@gmail.com"
+      cd cobrinha  # entre na pasta do repositório
+echo "Dia $(date)" >> log.txt
+git add log.txt
+git commit -m "Commit diário"
+git push origin main
