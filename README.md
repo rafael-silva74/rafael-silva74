@@ -27,7 +27,11 @@ No geral, gosto de aprender, criar e me divertir no processo. 🌈
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-silva74&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ### 🚀 Minhas linguagens tecnológicas:
