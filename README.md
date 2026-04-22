@@ -52,7 +52,8 @@ No geral, gosto de aprender, criar e me divertir no processo. 🌈
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-<img width="200" height="200" alt="JujutsuKaisenSukunaGIF" src="https://github.com/user-attachments/assets/f4bfea21-abc8-46c4-ab60-58ea3bcd9a03" /> <img width="200" height="200" alt="GojoSatoruSatoruGojoGIF" src="https://github.com/user-attachments/assets/49b0a0fd-e7f4-4ea1-923a-6aa478f0d96b" /> <img width="200" height="200" alt="JojoAnimeGIF" src="https://github.com/user-attachments/assets/670916af-9171-415e-a212-050c4934f5ab" />
+<img width="200" height="200" alt="JujutsuKaisenSukunaGIF" src="https://github.com/user-attachments/assets/f4bfea21-abc8-46c4-ab60-58ea3bcd9a03" /> <img width="200" height="200" alt="GojoSatoruSatoruGojoGIF" src="https://github.com/user-attachments/assets/49b0a0fd-e7f4-4ea1-923a-6aa478f0d96b" /> <img width="200" height="200" alt="JojoAnimeGIF" src="https://github.com/user-attachments/assets/670916af-9171-415e-a212-050c4934f5ab" /> <img width="200" height="350" alt="JjkJujutsuKaisenGIF" src="https://github.com/user-attachments/assets/e3f25e97-6f99-4b1d-bea1-56105694d125" />
+
 
 
 
