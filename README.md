@@ -48,5 +48,4 @@ No geral, gosto de aprender, criar e me divertir no processo. 🌈
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-<img width="480" height="480" alt="JujutsuKaisenSukunaGIF" src="https://github.com/user-attachments/assets/f4bfea21-abc8-46c4-ab60-58ea3bcd9a03" /> <img width="498" height="498" alt="AnimeJujutsuKaisenGIF" src="https://github.com/user-attachments/assets/54c16d6f-3c1a-4f9b-bf41-c7a72d4c4ff0" />
-
+<img width="480" height="480" alt="JujutsuKaisenSukunaGIF" src="https://github.com/user-attachments/assets/f4bfea21-abc8-46c4-ab60-58ea3bcd9a03" /> 
