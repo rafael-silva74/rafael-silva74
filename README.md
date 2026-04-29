@@ -52,8 +52,10 @@ No geral, gosto de aprender, criar e me divertir no processo. 🌈
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-<img width="200" height="200" alt="JujutsuKaisenSukunaGIF" src="https://github.com/user-attachments/assets/f4bfea21-abc8-46c4-ab60-58ea3bcd9a03" /> <img width="200" height="200" alt="GojoSatoruSatoruGojoGIF" src="https://github.com/user-attachments/assets/49b0a0fd-e7f4-4ea1-923a-6aa478f0d96b" /> <img width="200" height="200" alt="JojoAnimeGIF" src="https://github.com/user-attachments/assets/670916af-9171-415e-a212-050c4934f5ab" /><img width="200" height="200" alt="YutaOkkotsuPlushGIF" src="https://github.com/user-attachments/assets/9524ac2d-1dda-46c1-b323-19063d3df573" /> <img width="250" height="250" alt="AnimeCloseGIF" src="https://github.com/user-attachments/assets/26e8748e-f3e7-481d-91a4-9b99e55ef5c8" /> <img width="250" height=250" alt="JojoPoseJjbaPoseGIF" src="https://github.com/user-attachments/assets/3c296c2b-8d05-4a42-b8f8-2bf00a079298" />
-<img width="1000" height="400" alt="RyuRyuIshigoriGIF" src="https://github.com/user-attachments/assets/7fbdda28-8281-40c9-9f19-68b9a657f8f8" />
+<img width="200" height="200" alt="JujutsuKaisenSukunaGIF" src="https://github.com/user-attachments/assets/f4bfea21-abc8-46c4-ab60-58ea3bcd9a03" /> <img width="200" height="200" alt="GojoSatoruSatoruGojoGIF" src="https://github.com/user-attachments/assets/49b0a0fd-e7f4-4ea1-923a-6aa478f0d96b" /> <img width="200" height="200" alt="JojoAnimeGIF" src="https://github.com/user-attachments/assets/670916af-9171-415e-a212-050c4934f5ab" /><img width="200" height="200" alt="YutaOkkotsuPlushGIF" src="https://github.com/user-attachments/assets/9524ac2d-1dda-46c1-b323-19063d3df573" /> <img width="250" height="250" alt="AnimeCloseGIF" src="https://github.com/user-attachments/assets/26e8748e-f3e7-481d-91a4-9b99e55ef5c8" /> <img width="250" height=250" alt="JojoPoseJjbaPoseGIF" src="https://github.com/user-attachments/assets/3c296c2b-8d05-4a42-b8f8-2bf00a079298" /> 
+<img width="1000" height="450" alt="YutaRyuGIF" src="https://github.com/user-attachments/assets/ac5c4752-3ff0-4e72-80a5-e8fe1d915da9" />
+
+<img width="1000" height="450" alt="RyuRyuIshigoriGIF" src="https://github.com/user-attachments/assets/7fbdda28-8281-40c9-9f19-68b9a657f8f8" />
 >
 
 
